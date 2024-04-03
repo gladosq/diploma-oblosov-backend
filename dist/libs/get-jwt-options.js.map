@@ -1,0 +1,1 @@
+{"version":3,"file":"get-jwt-options.js","sourceRoot":"","sources":["../../libs/get-jwt-options.ts"],"names":[],"mappings":";;;AAGO,KAAK,UAAU,aAAa,CAAC,aAA4B;IAC9D,OAAO;QACL,MAAM,EAAE,aAAa,CAAC,GAAG,CAAS,uBAAuB,CAAC;QAC1D,WAAW,EAAE;YACX,SAAS,EAAE,aAAa,CAAC,GAAG,CAAS,0BAA0B,CAAC;YAChE,SAAS,EAAE,OAAO;SACnB;KACF,CAAC;AACJ,CAAC;AARD,sCAQC"}
